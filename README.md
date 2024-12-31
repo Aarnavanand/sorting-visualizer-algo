@@ -20,12 +20,12 @@ This project is a simple visualization tool for common sorting algorithms: Bubbl
 
 * **React:** For building the user interface and managing the application's state.
 * **JavaScript:** For implementing the sorting algorithms and handling user interactions.
-* **CSS:** For styling the visual representation of the array.
+* **CSS/Tailwind:** For styling the visual representation of the array.
 
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash: git clone https://github.com/Aarnavanand/sorting-visualizer-algo/  
+     git clone https://github.com/Aarnavanand/sorting-visualizer-algo/  
 
 2. **Install dependencies:**
      cd sorting-visualizer
