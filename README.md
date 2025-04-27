@@ -25,14 +25,20 @@ This project is a simple visualization tool for common sorting algorithms: Bubbl
 ## Getting Started
 
 1. **Clone the repository:**
-     git clone https://github.com/Aarnavanand/sorting-visualizer-algo/  
+     ```
+     git clone https://github.com/Aarnavanand/sorting-visualizer-algo/
+     ```
 
 2. **Install dependencies:**
+     ```
      cd sorting-visualizer
      npm install
+     ```
    
 3. **Run the development server:**
+     ```
      npm start/ run dev
+     ```
    
 Live on: https://sortingvisualizeralgo.vercel.app/ 
 
