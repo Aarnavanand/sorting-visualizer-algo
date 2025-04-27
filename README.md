@@ -45,7 +45,5 @@ Live on: https://sortingvisualizeralgo.vercel.app/
 Contributing
 Contributions are welcome! Please feel free to submit a pull request with any improvements or new features.
 
-
-
-
-
+📜 License
+This project is licensed under the MIT License.
